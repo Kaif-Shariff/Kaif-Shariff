@@ -1,0 +1,4 @@
+- 👋 Hi, I’m @Kaif-Shariff
+- 👀 I’m interested in AI & ML
+- 🌱 I’m currently learning Programming
+- 📫 How to reach me kaif.shariff1234@gmail.com
