@@ -2,7 +2,6 @@
 
 Welcome to my GitHub profile! I'm passionate about technology, and here's a little about me:
 
-- 👀 I'm deeply interested in AI & ML.
 - 🌱 I'm constantly learning and improving my programming skills, including JavaScript, Java, and using tailwind CSS for web development.
 - 📚 I hold a Hackerrank SQL (basic) certificate, and I'm proud to have earned a gold medal for Java and a silver medal for SQL on Hackerrank.
 - 🚀 I love working on exciting projects. Here are some of my recent ones:
