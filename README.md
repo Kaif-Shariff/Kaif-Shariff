@@ -9,8 +9,10 @@ Welcome to my GitHub profile! I'm passionate about technology, and here's a litt
 ## Projects
 
 1. **[Ecommerce Website](https://github.com/Random-Guyz/RG_Store):** Built the frontend (UI/UX) and a functional search bar in JS.
-2. **Login Page with Validation:** Ensuring secure user authentication with validation.
-3. **[Currency Converter using API](https://github.com/Kaif-Shariff/Development_Projects):** Creating a real-time currency converter application using APIs.
-4. **[Password Generator in JavaScript](https://github.com/Kaif-Shariff/PasswordGenerator):** Crafting a tool to generate strong passwords.
+2. **[Currency Converter using API](https://github.com/Kaif-Shariff/Development_Projects):** Created a real-time currency converter application using APIs.
+3. **[To-Do-List](https://github.com/Kaif-Shariff/PlanUp):** Recreated the idea of To-Do-List.
+4. **[Password Generator in JavaScript](https://github.com/Kaif-Shariff/PasswordGenerator):** Made a tool to generate strong passwords.
+5. **[Calculator](https://github.com/Kaif-Shariff/Web-Calculator):** A calculator with interactive background using particle.js.
+6. **[Login Page with Validation]:** Ensuring secure user authentication with validation.
 
 Feel free to explore my repositories and reach out to me at kaif.shariff1234@gmail.com. Let's connect and collaborate on exciting projects together! 🚀
