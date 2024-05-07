@@ -13,10 +13,7 @@ Welcome to my GitHub profile! I'm a developer who have explored number of techno
 1. **[Movie Ticket Booking](https://github.com/Random-Guyz/RG-Movie_TIcket_Booking):** Lead a team of 6 developers to make a feature rich website.
 2. **[Gym Management App](https://github.com/Random-Guyz/Gym-Management):** A management app for gym owners to track their staff and customers.
 3. **[Ecommerce Website](https://github.com/Random-Guyz/RG_Store):** Built the frontend (UI/UX) and a functional search bar in JavaScript.
-4. **[Vortexa I.T Solution](https://github.com/Kaif-Shariff/Vortexa):** A replica of a real life business website that provides software/I.T Solutions. Made in React.
-5. **[PlanUp - To-Do-List](https://github.com/Kaif-Shariff/PlanUp):** Crafted a stunning UI with Figma. Also available in [React](https://github.com/Kaif-Shariff/PlanUp-React)
-6. **[Password Generator in JavaScript](https://github.com/Kaif-Shariff/PasswordGenerator):** Made a tool to generate strong passwords.
-7. **[Shoe Cart](https://github.com/Kaif-Shariff/Shoe-Cart-React):** Utilized React Context API for managing cart and fetch data from local JSON.
-   
+4. **[Vortexa I.T Solution](https://github.com/Kaif-Shariff/Vortexa):** A replica of a real life business website that provides software/I.T Solutions. Made in React.   
 
-Feel free to explore my repositories and reach out to me at kaif.shariff1234@gmail.com. Let's connect and collaborate on exciting projects together! 🚀
+Feel free to explore my repositories and reach out to me at kaif.shariff1234@gmail.com. 
+Let's connect and collaborate on exciting projects together!
