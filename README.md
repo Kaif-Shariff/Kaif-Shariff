@@ -2,7 +2,8 @@
 
 Welcome to my GitHub profile! I'm a developer who have explored number of technologies till now and i plan to do the same in future as well, and here's a little about me:
 
--  I'm constantly learning and improving my programming skills.
+-  I'm learning and improving my programming skills rapidly.
+-  Looking for a job to enhance my skills and be a part of something exciting!.
 -  Made projects in React, Flutter, Java, JavaScript, C/C++, ASP & VB.NET, Python (Flask).
 -  I've spent my time making projects in 📱 Mobile, 🌐 Web and 🖥️ Desktop platforms.
 -  I hold a Hackerrank SQL (basic) certificate, and I'm proud to have earned a gold medal for Java and a silver medal for SQL on Hackerrank.
