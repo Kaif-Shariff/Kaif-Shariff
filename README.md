@@ -16,6 +16,10 @@
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://dev.to/kaif-shariff" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/devto.svg" alt="kaif-shariff" height="30" width="40" /></a>
+<a href="https://twitter.com/_kaifshariff_" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="_kaifshariff_" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/kaif-shariff-67a0921b0" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="kaif-shariff-67a0921b0" height="30" width="40" /></a>
+<a href="https://www.hackerrank.com/kaif_shariff1234" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="kaif_shariff1234" height="30" width="40" /></a>
+<a href="https://www.leetcode.com//mo8ivxb3uf" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="/mo8ivxb3uf" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
@@ -26,11 +30,3 @@
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=kaif-shariff&show_icons=true&locale=en" alt="kaif-shariff" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=kaif-shariff&" alt="kaif-shariff" /></p>
-
-# Projects
-
-1. **[Movie Ticket Booking](https://github.com/Random-Guyz/RG-Movie_TIcket_Booking):** Lead a team of 6 developers to make a feature rich website.
-2. **[Gym Management App](https://github.com/Random-Guyz/Gym-Management):** A management app for gym owners to track their staff and customers.
-3. **[Ecommerce Website](https://github.com/Random-Guyz/RG_Store):** Built the frontend (UI/UX) and a functional search bar in JavaScript.
-4. **[Vortexa I.T Solution](https://github.com/Kaif-Shariff/Vortexa):** A replica of a real life business website that provides software/I.T Solutions. Made in React.   
-
